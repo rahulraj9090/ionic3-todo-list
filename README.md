@@ -2,6 +2,6 @@
 
 <ul>
 	<li>
-		ionic3 Todo List is a ionic project, here you can add new task and edit it and delete it. 
+		ionic3 Todo List is a ionic project. Here you can add new task and edit it and delete it. 
 	</li>
 </ul>
